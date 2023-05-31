@@ -4,3 +4,5 @@
 #### This is a h4 title
 ##### This is a h5 title
 ###### This is a h6 title
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
