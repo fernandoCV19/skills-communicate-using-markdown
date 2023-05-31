@@ -6,3 +6,10 @@
 ###### This is a h6 title
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+  let a = 5
+  let b = 6
+  let res = a + b
+  console.log(res)
+```
